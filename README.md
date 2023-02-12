@@ -1,5 +1,5 @@
+# Project 2: Create a mockup using HTML & CSS
 Student Project at OpenClassrooms<br>
-Project 2: Create a mockup using HTML & CSS<br>
 https://natsumi37.github.io/natsumi_P2_03062022/
 
 ✅Turn Mock-ups Into a Web Page with HTML & CSS<br>
